@@ -1,0 +1,7 @@
+name: breakableBarriers
+version: 1.0.0
+description: Make Barrier Blocks breakable and also craftable
+author: Nico Flohr
+website: nico-flohr.de
+
+main: main.main
